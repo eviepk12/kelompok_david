@@ -1,6 +1,6 @@
 /*!
-* Start Bootstrap - Agency v7.0.11 (https://startbootstrap.com/theme/agency)
-* Copyright 2013-2022 Start Bootstrap
+* Rumah sakit - Agency v7.0.11 (https://RUMAH SAKIT.com/theme/agency)
+* Copyright 2013-2022 RUMAH SAKIT K
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
 */
 //
